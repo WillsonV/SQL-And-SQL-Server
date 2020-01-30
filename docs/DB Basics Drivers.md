@@ -29,3 +29,18 @@ Users can add ODBC drivers to connect the application to the required DBMS.
 
 ![Fig: ODBC](https://pediaa.com/wp-content/uploads/2019/02/Difference-Between-ODBC-OLEDB-and-JDBC_Figure-2.png)
 
+
+ODBC interface includes a Library of ODBC with function calls (Core functions and extended functions). It also provides a standard set of error codes and a way of connecting and logging to a DBMS. Overall, ODBC works as an interface to exchange data among various applications and data sources
+
+
+##### What is OLEDB
+OLEDB stands for Object Linking and Embedding Database. It is an API that helps to access data from different sources in a uniform manner. It is based on Component Object Model (COM) and is a part of Microsoft Data Access Components (MDAC) stack. OLEDB is advanced than ODBC as it is capable of accessing data from non-relational databases that do not use SQL.
+
+Moreover, OLEDB divides data sources from the application. It is because different applications require different types of data and it is not important to know how to access them with all technical methods. There are two major sections in OLEDB called consumer and provider. The consumer obtains data while the provider gives data to the consumers.
+
+##### What is JDBC
+JDBC stands for Java Database Connectivity. It is an API that provides database-independent connectivity between the Java application and different databases. It is available in Java Standard Edition (Java SE). JDBC allows Java programs to access enterprise-level data. With the support of the JDBC driver, it is possible to access data in dissimilar environments as well.
+
+
+
+![JDBC image](https://pediaa.com/wp-content/uploads/2019/02/Difference-Between-ODBC-OLEDB-and-JDBC_Figure-1.png)
