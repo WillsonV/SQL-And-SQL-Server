@@ -69,3 +69,6 @@ ODBC works with relational databases while OLEDB and JDBC work with relational a
 #### Conclusion
 The main difference between ODBC OLEDB and JDBC is that the ODBC is an API developed by Microsoft to access relational databases while OLEDB is an API developed by Microsoft to access both relational and non-relational databases, and JDBC is an API developed by Oracle to access the relational and non-relational database
 
+
+https://commons.wikimedia.org/w/index.php?curid=20254457
+[More info](https://pediaa.com/what-is-the-difference-between-odbc-oledb-and-jdbc/)
