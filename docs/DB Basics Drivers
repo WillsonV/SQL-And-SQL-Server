@@ -25,3 +25,7 @@ ODBC, OLEDB and JDBC are three APIs that allow connecting the application to a d
 Moreover, an application can use ODBC functions using the ODBC driver manager. The driver can pass queries to the DBMS. An application that uses ODBC is called an ODBC compliant.
 Furthermore, ODBC allows maximum interoperability. In other words, a single application can access different DBMSs. 
 Users can add ODBC drivers to connect the application to the required DBMS.     
+
+
+![Fig: ODBC](https://pediaa.com/wp-content/uploads/2019/02/Difference-Between-ODBC-OLEDB-and-JDBC_Figure-2.png)
+
