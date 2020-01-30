@@ -44,3 +44,28 @@ JDBC stands for Java Database Connectivity. It is an API that provides database-
 
 
 ![JDBC image](https://pediaa.com/wp-content/uploads/2019/02/Difference-Between-ODBC-OLEDB-and-JDBC_Figure-1.png)
+
+
+When connecting a Java application to a database, it is necessary to go through the below steps.
+
+• Load the driver to connect to the database.
+• Create a connection to communicate with the database object
+• Execute the required SQL statements
+• Return the result set
+
+#### Difference Between ODBC OLEDB and JDBC
+Definition
+ODBC is a standard application programming interface (API) for accessing Database Management Systems (DBMS). OLEDB, on the other hand, is an API that allows accessing data from a variety of sources in a uniform manner while JDBC is an API for the programming language Java, which defines how a client may access a database. Thus, this is the main difference between ODBC OLEDB and JDBC.
+
+##### Long Form
+ODBC stands for Open Database Connectivity while OLEDB stands for Object Linking and Embedding Database, and JDBC stands for Java Database Connectivity.
+
+##### Developer
+Another difference between ODBC OLEDB and JDBC is their developer. Microsoft is the developer of both ODBC and OLEDB while Oracle is the developer of JDBC.
+
+##### Related Databases
+ODBC works with relational databases while OLEDB and JDBC work with relational and non-relational databases. Hence, this is another difference between ODBC OLEDB and JDBC.
+
+#### Conclusion
+The main difference between ODBC OLEDB and JDBC is that the ODBC is an API developed by Microsoft to access relational databases while OLEDB is an API developed by Microsoft to access both relational and non-relational databases, and JDBC is an API developed by Oracle to access the relational and non-relational database
+
